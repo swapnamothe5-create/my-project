@@ -17,3 +17,20 @@
 -Https
 -Tree shaking - remove unused code
 Different dev prod builds
+
+/* 
+*Header
+*  -Logo
+*  -Nav items
+* Body
+*   -Search
+*   -RestaurentContainer
+*    -RestaurentCard
+*      Img,restaurant name,star rating,cuisins
+* Footer
+*   -Copyright
+*   -Links
+*   -Address
+*   -Contact
+
+*/
